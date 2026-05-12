@@ -1,2 +1,2 @@
-# eventsapp
-AWS Kubernetes course app
+# eventsappstart
+This is a simple events app
